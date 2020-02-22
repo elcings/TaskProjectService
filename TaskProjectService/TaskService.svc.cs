@@ -15,7 +15,7 @@ namespace TaskProjectService
 
         public TaskService()
         {
-            _logger = LogManager.GetLogger("database");
+            _logger = LogManager.GetCurrentClassLogger();
         }
         public int Add(int a, int b)
         {

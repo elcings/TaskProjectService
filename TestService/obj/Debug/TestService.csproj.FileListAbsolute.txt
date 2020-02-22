@@ -1,0 +1,7 @@
+C:\Users\Elchin\source\repos\TaskProjectService\TestService\bin\Debug\TestService.exe.config
+C:\Users\Elchin\source\repos\TaskProjectService\TestService\bin\Debug\TestService.exe
+C:\Users\Elchin\source\repos\TaskProjectService\TestService\bin\Debug\TestService.pdb
+C:\Users\Elchin\source\repos\TaskProjectService\TestService\obj\Debug\TestService.csprojResolveAssemblyReference.cache
+C:\Users\Elchin\source\repos\TaskProjectService\TestService\obj\Debug\TestService.csproj.CoreCompileInputs.cache
+C:\Users\Elchin\source\repos\TaskProjectService\TestService\obj\Debug\TestService.exe
+C:\Users\Elchin\source\repos\TaskProjectService\TestService\obj\Debug\TestService.pdb
