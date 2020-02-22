@@ -1,0 +1,12 @@
+c:\users\elchin\source\repos\TaskProjectService\TaskProjectService\bin\NLog.config
+c:\users\elchin\source\repos\TaskProjectService\TaskProjectService\bin\TaskProjectService.dll.config
+c:\users\elchin\source\repos\TaskProjectService\TaskProjectService\bin\TaskProjectService.dll
+c:\users\elchin\source\repos\TaskProjectService\TaskProjectService\bin\TaskProjectService.pdb
+c:\users\elchin\source\repos\TaskProjectService\TaskProjectService\bin\Newtonsoft.Json.dll
+c:\users\elchin\source\repos\TaskProjectService\TaskProjectService\bin\NLog.dll
+c:\users\elchin\source\repos\TaskProjectService\TaskProjectService\bin\Newtonsoft.Json.xml
+c:\users\elchin\source\repos\TaskProjectService\TaskProjectService\bin\NLog.xml
+c:\users\elchin\source\repos\TaskProjectService\TaskProjectService\obj\Debug\TaskProjectService.csprojResolveAssemblyReference.cache
+c:\users\elchin\source\repos\TaskProjectService\TaskProjectService\obj\Debug\TaskProjectService.csproj.CoreCompileInputs.cache
+c:\users\elchin\source\repos\TaskProjectService\TaskProjectService\obj\Debug\TaskProjectService.dll
+c:\users\elchin\source\repos\TaskProjectService\TaskProjectService\obj\Debug\TaskProjectService.pdb
