@@ -28,7 +28,6 @@ namespace TaskProjectService
 
         [OperationContract]
         [WebInvoke(ResponseFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.WrappedRequest)]
-
         int Multiply(int a, int b);
     }
 }

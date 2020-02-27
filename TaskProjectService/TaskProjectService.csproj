@@ -49,6 +49,7 @@
       <HintPath>..\packages\NLog.4.6.8\lib\net45\NLog.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Messaging" />
     <Reference Include="System.Transactions" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -79,11 +80,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Handler\ExceptionHandler.cs" />
     <Compile Include="Connected Services\RabitaService\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
+    <Compile Include="Handler\IExceptionHandler.cs" />
     <Compile Include="ITaskService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TaskService.svc.cs">
@@ -96,6 +99,7 @@
   <ItemGroup>
     <Content Include="NLog.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </Content>
     <None Include="Connected Services\RabitaService\calculator.wsdl" />
     <None Include="NLog.xsd">
